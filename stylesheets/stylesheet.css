@@ -258,6 +258,14 @@ h3 {
   color: #0099ff;
 }
 
+h3 a {
+margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #0099ff;	
+}
+
+
 h4 {
   font-size: 16px;
   font-weight: bold;
